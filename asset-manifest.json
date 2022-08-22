@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DEVREV_UI_library_management/static/css/main.d591570f.css",
-    "main.js": "/DEVREV_UI_library_management/static/js/main.d941619c.js",
-    "static/js/787.d20b7848.chunk.js": "/DEVREV_UI_library_management/static/js/787.d20b7848.chunk.js",
-    "static/media/lib.png": "/DEVREV_UI_library_management/static/media/lib.6bd97eceb75c78932648.png",
-    "index.html": "/DEVREV_UI_library_management/index.html",
-    "main.d591570f.css.map": "/DEVREV_UI_library_management/static/css/main.d591570f.css.map",
-    "main.d941619c.js.map": "/DEVREV_UI_library_management/static/js/main.d941619c.js.map",
-    "787.d20b7848.chunk.js.map": "/DEVREV_UI_library_management/static/js/787.d20b7848.chunk.js.map"
+    "main.css": "/DEVREV_Library_Management/static/css/main.d591570f.css",
+    "main.js": "/DEVREV_Library_Management/static/js/main.05b5d661.js",
+    "static/js/787.d20b7848.chunk.js": "/DEVREV_Library_Management/static/js/787.d20b7848.chunk.js",
+    "static/media/lib.png": "/DEVREV_Library_Management/static/media/lib.6bd97eceb75c78932648.png",
+    "index.html": "/DEVREV_Library_Management/index.html",
+    "main.d591570f.css.map": "/DEVREV_Library_Management/static/css/main.d591570f.css.map",
+    "main.05b5d661.js.map": "/DEVREV_Library_Management/static/js/main.05b5d661.js.map",
+    "787.d20b7848.chunk.js.map": "/DEVREV_Library_Management/static/js/787.d20b7848.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d591570f.css",
-    "static/js/main.d941619c.js"
+    "static/js/main.05b5d661.js"
   ]
 }
