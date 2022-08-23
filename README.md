@@ -15,6 +15,6 @@
 -> I made filteration Non-case-sensitive means you can type 'english' or 'English'. Same result will come.
 -> If you searching something which is not present in the data then you will get No result found.
 
-Main Feature is, I have this React App "Mobile Responsive".
+Main Feature is, I have made this React App "Mobile Responsive".
 
 You can check here by clicking this link :- https://aayushmaheshwari.github.io/DEVREV_Library_Management/
